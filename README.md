@@ -1,7 +1,7 @@
-ip-scan
-
+# ip-scan
+ 
 Scan if ip is available within specified range
-
+ 
 # Installation
 ```shell
 pip install ip-scan
@@ -41,10 +41,10 @@ print(result)
 [['192.168.1.200', True], ['192.168.1.201', False], ['192.168.1.202', False]]
 ```
 
-## Others
+# Others
 
 * Domain is supported though this pack mainly aims to ip range scan.
 
-## License
+# License
 
 Whatever you like.
